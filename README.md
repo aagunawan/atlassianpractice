@@ -1,1 +1,1 @@
-# atlassianpractice
+# projectb's README
